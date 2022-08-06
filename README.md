@@ -1,30 +1,53 @@
-<h1 align="center">Hi 👋, I'm Clayton</h1>
-<h3 align="center">A passionate developer of open source projects from Texas</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cjerrington&label=Profile%20views&color=0e75b6&style=flat" alt="cjerrington" /> </p>
-
-- 🔭 I’m currently working on [net-check](https://claytonerrington.com/net-check), [wakey](https://github.com/cjerrington/wakey), and the [UsefulScipting.Network](http://usefulscripting.network/)
-
-- 👯 I’m looking to collaborate on **Python and PowerShell projects**
-
-- 👨‍💻 All of my projects are available at [https://claytonerrington.com](https://claytonerrington.com) and [GitHub](https://github.com/cjerrington)
-
-- 📝 I regularly write articles on [https://claytonerrington.com](https://claytonerrington.com) and the [UsefulScipting.Network](http://usefulscripting.network/)
-
-- 📫 How to reach me **me@claytonerrington.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/cjerrington" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="cjerrington" height="30" width="40" /></a>
-<a href="https://twitter.com/cjerrington" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cjerrington" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/claytonerrington" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="claytonerrington" height="30" width="40" /></a>
-<a href="https://fb.com/clayton.errington" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="clayton.errington" height="30" width="40" /></a>
-<a href="https://instagram.com/claytonjerrington" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="claytonjerrington" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cjerrington&show_icons=true&locale=en&layout=compact" alt="cjerrington" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cjerrington&show_icons=true&locale=en" alt="cjerrington" /></p>
+<h1>Hi 👋, I'm Clayton</h1>
+<h3>A passionate developer of open source projects from Texas</h3>
+<p><a href="https://claytonerrington.com"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=flat-square&up_color=blue&up_message=claytonerrington.com&url=https%3A%2F%2Fclaytonerrington.com" height=25></a> <a href="https://www.twitter.com/cjerrington"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/claytonerrington/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://mstdn.social/@cjerrington"><img src="https://img.shields.io/mastodon/follow/108200000569711642?domain=https%3A%2F%2Fmstdn.social&style=for-the-badge" height=25></a> <a href="https://www.instagram.com/cjerrington/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
+<p><a href="https://claytonerrington.com">➡️ Check out my website</a></p>
+  <a href="https://www.buymeacoffee.com/cjerrington" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
+<h2>My Latest Blog Posts</h2>
+  <ul>
+    <li><a href=http://claytonerrington.com/blog/dbatools-and-powershell/>dbatools and PowerShell</a></li><li><a href=http://claytonerrington.com/blog/Installing-Jekyll/>Installing Jekyll the easy way</a></li><li><a href=http://claytonerrington.com/blog/file-dialog-with-powershell/>File Dialog With PowerShell</a></li><li><a href=http://claytonerrington.com/blog/SQL-Builder/>SQL Builder</a></li><li><a href=http://claytonerrington.com/blog/Wakey/>Wakey</a></li>
+  </ul>
+<p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
+<h2>Useful Scripting Network Blog Posts</h2>
+  <ul>
+    <li><a href=https://usefulscripting.network/web/install-installing-jekyll-the-easy-way/>Install Installing Jekyll The Easy Way</a></li><li><a href=https://usefulscripting.network/powershell/file-dialog-with-powershell/>File Dialog With PowerShell</a></li><li><a href=https://usefulscripting.network/computers/Update-File-Programmically/>Updating File Programmically</a></li><li><a href=https://usefulscripting.network/python/taking-a-screenshot-in-python/>Taking A Screenshot In Python</a></li><li><a href=https://usefulscripting.network/python/extracting-files-with-progress/>Extracting files with Progress</a></li>
+  </ul>
+<p><a href="https://usefulscripting.network">➡️ More blog posts</a></p>
+<h2>Noteworthy Projects</h2>
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/cjerrington/SQLBuilder/blob/main/README.md">SQLBuilder</a></td>
+<td>Simple SQL Attach Script Generator</td>
+</tr>
+<tr>
+<td><a href="https://claytonerrington.com/net-check/">net-check</a></td>
+<td>NodeJS &amp; Electron application to check the status of remote ports if a connection can be made</td>
+</tr>
+<tr>
+<td><a href="https://github.com/cjerrington/wakey">Wakey</a></td>
+<td>Simple Python app to keep a computer awake</td>
+</tr>
+<tr>
+<td><a href="https://pypi.org/project/netutil/">netutil</a></td>
+<td>Python module to check the staus of ports for local and remote connections</td>
+</tr>
+<tr>
+<td><a href="https://github.com/cjerrington/MoneyCounter">MoneyCounter</a></td>
+<td>Simple VueJS app to count your change and bills</td>
+</tr>
+<tr>
+<td>Deployment HQ</td>
+<td>Internal project at work to help assist the deployment engineers with daily tasksm</td>
+</tr>
+</tbody>
+</table>
+  <center><small>Updated once a day. Last update:  8- 5-2022 22:33<small><center>
