@@ -50,5 +50,4 @@
 </tr>
 </tbody>
 </table>
-  <p align="center"><small>Updated once a day via <a href="https://github.com/cjerrington/cjerrington/blob/main/.github/workflows/build.yml">Github Actions</a>. Last update:  8- 5-2022 22:49</small></p>
-  <p align="center"><small>Updated once a day via [Github Actions](https://github.com/cjerrington/cjerrington/blob/main/.github/workflows/build.yml). Last update:  8- 6-2022 3:48</small></p>
+  <p align="center"><small>Updated once a day via <a href="https://github.com/cjerrington/cjerrington/blob/main/.github/workflows/build.yml">Github Actions</a>. Last update:  8- 6-2022</small></p>
