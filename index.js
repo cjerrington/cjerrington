@@ -66,7 +66,7 @@ md.use(emoji);
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>`;
 
-  const footer = `<center><small>Updated once a day. Last update: ${now}<small><center>`
+  const footer = `<p align="center"><small>Updated once a day via [Github Actions](https://github.com/cjerrington/cjerrington/blob/main/.github/workflows/build.yml). Last update: ${now}</small></p>`
 
   const text = `${headerText}\n\n
   ${websiteBadge} ${twitterBadge} ${linkedInBadge} ${mastodonBadge} ${instagramBadge}\n\n

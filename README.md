@@ -50,4 +50,8 @@
 </tr>
 </tbody>
 </table>
+<<<<<<< Updated upstream
   <center><small>Updated once a day. Last update:  8- 6-2022 3:37<small><center>
+=======
+  <p align="center"><small>Updated once a day. Last update:  8- 5-2022 22:44</small></p>
+>>>>>>> Stashed changes
