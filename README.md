@@ -38,7 +38,7 @@
 </tr>
 <tr>
 <td><a href="https://pypi.org/project/netutil/">netutil</a></td>
-<td>Python module to check the staus of ports for local and remote connections</td>
+<td>Python module to check the status of ports for local and remote connections</td>
 </tr>
 <tr>
 <td><a href="https://github.com/cjerrington/MoneyCounter">MoneyCounter</a></td>
