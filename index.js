@@ -107,28 +107,17 @@ async function loadBlogPosts(thefeedurl, websiteUrl) {
 }
 
 async function getDateNow(){
-  
-  const dateObject = new Date();
-  // current date
-  // adjust 0 before single digit date
-  const date = (`0 ${dateObject.getDate()}`).slice(-2);
-  
-  // current month
-  const month = (`0 ${dateObject.getMonth() + 1}`).slice(-2);
-  
-  // current year
-  const year = dateObject.getFullYear();
-  
-  // current hours
-  const hours = dateObject.getHours();
-  
-  // current minutes
-  const minutes = dateObject.getMinutes();
+  let DATA = {
+      refresh_date: new Date().toLocaleDateString('en-US', {
+        weekday: 'long',
+        month: 'long',
+        day: 'numeric',
+        hour: 'numeric',
+        minute: 'numeric',
+        timeZoneName: 'short',
+        timeZone: 'America/Chicago',
+      }),
+  };
 
-  const datetime = `${month}-${date}-${year}`
-  
-  // prints date & time in YYYY-MM-DD HH:MM:SS format
-  console.log(datetime);
-
-  return datetime
+  return DATA.refresh_date
 }
