@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href=http://claytonerrington.com/blog/Jellyfin-check-for-update/>How to check for Jellyfin updates</a></li><li><a href=http://claytonerrington.com/blog/Get-Port-Process/>How to get the Process a Port is Bound to</a></li><li><a href=http://claytonerrington.com/blog/dbatools-and-powershell/>dbatools and PowerShell</a></li><li><a href=http://claytonerrington.com/blog/Installing-Jekyll/>Installing Jekyll the easy way</a></li><li><a href=http://claytonerrington.com/blog/file-dialog-with-powershell/>File Dialog With PowerShell</a></li>
+    <li><a href=http://claytonerrington.com/blog/new-years-resolution/>New Year’s Resolution for 2023</a></li><li><a href=http://claytonerrington.com/blog/Jellyfin-check-for-update/>How to check for Jellyfin updates</a></li><li><a href=http://claytonerrington.com/blog/Get-Port-Process/>How to get the Process a Port is Bound to</a></li><li><a href=http://claytonerrington.com/blog/dbatools-and-powershell/>dbatools and PowerShell</a></li><li><a href=http://claytonerrington.com/blog/Installing-Jekyll/>Installing Jekyll the easy way</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
@@ -50,4 +50,4 @@
 </tr>
 </tbody>
 </table>
-  <p align="center"><small>Updated once a day via <a href="https://github.com/cjerrington/cjerrington/blob/main/.github/workflows/build.yml">Github Actions</a>. Last update: Wednesday, December 28, 6:17 AM CST</small></p>
+  <p align="center"><small>Updated once a day via <a href="https://github.com/cjerrington/cjerrington/blob/main/.github/workflows/build.yml">Github Actions</a>. Last update: Thursday, December 29, 6:17 AM CST</small></p>
