@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href=http://claytonerrington.com/blog/working-wtih-jekyll-tags/>Working with Tags in Jekyll</a></li><li><a href=http://claytonerrington.com/blog/new-years-resolution/>New Year’s Resolution for 2023</a></li><li><a href=http://claytonerrington.com/blog/Jellyfin-check-for-update/>How to check for Jellyfin updates</a></li><li><a href=http://claytonerrington.com/blog/Get-Port-Process/>How to get the Process a Port is Bound to</a></li><li><a href=http://claytonerrington.com/blog/dbatools-and-powershell/>dbatools and PowerShell</a></li>
+    <li><a href=/blog/Netlify-redirects/>Netlify hosting and redirects</a></li><li><a href=/blog/working-wtih-jekyll-tags/>Working with Tags in Jekyll</a></li><li><a href=/blog/new-years-resolution/>New Year’s Resolution for 2023</a></li><li><a href=/blog/Jellyfin-check-for-update/>How to check for Jellyfin updates</a></li><li><a href=/blog/Get-Port-Process/>How to get the Process a Port is Bound to</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
@@ -50,4 +50,4 @@
 </tr>
 </tbody>
 </table>
-  <p align="center"><small>Updated once a day via <a href="https://github.com/cjerrington/cjerrington/blob/main/.github/workflows/build.yml">Github Actions</a>. Last update: Saturday, January 7, 6:16 AM CST</small></p>
+  <p align="center"><small>Updated once a day via <a href="https://github.com/cjerrington/cjerrington/blob/main/.github/workflows/build.yml">Github Actions</a>. Last update: Sunday, January 8, 6:17 AM CST</small></p>
