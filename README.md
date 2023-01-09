@@ -7,12 +7,12 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href=/blog/Netlify-redirects/>Netlify hosting and redirects</a></li><li><a href=/blog/working-wtih-jekyll-tags/>Working with Tags in Jekyll</a></li><li><a href=/blog/new-years-resolution/>New Year’s Resolution for 2023</a></li><li><a href=/blog/Jellyfin-check-for-update/>How to check for Jellyfin updates</a></li><li><a href=/blog/Get-Port-Process/>How to get the Process a Port is Bound to</a></li>
+    <li><a href="/blog/Netlify-redirects/">Netlify hosting and redirects</a></li><li><a href="/blog/working-wtih-jekyll-tags/">Working with Tags in Jekyll</a></li><li><a href="/blog/new-years-resolution/">New Year’s Resolution for 2023</a></li><li><a href="/blog/Jellyfin-check-for-update/">How to check for Jellyfin updates</a></li><li><a href="/blog/Get-Port-Process/">How to get the Process a Port is Bound to</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
   <ul>
-    <li><a href=https://usefulscripting.network/web/install-installing-jekyll-the-easy-way/>Install Installing Jekyll The Easy Way</a></li><li><a href=https://usefulscripting.network/powershell/file-dialog-with-powershell/>File Dialog With PowerShell</a></li><li><a href=https://usefulscripting.network/computers/Update-File-Programmically/>Updating File Programmically</a></li><li><a href=https://usefulscripting.network/python/taking-a-screenshot-in-python/>Taking A Screenshot In Python</a></li><li><a href=https://usefulscripting.network/python/extracting-files-with-progress/>Extracting files with Progress</a></li>
+    <li><a href="https://usefulscripting.network/web/install-installing-jekyll-the-easy-way/">Install Installing Jekyll The Easy Way</a></li><li><a href="https://usefulscripting.network/powershell/file-dialog-with-powershell/">File Dialog With PowerShell</a></li><li><a href="https://usefulscripting.network/computers/Update-File-Programmically/">Updating File Programmically</a></li><li><a href="https://usefulscripting.network/python/taking-a-screenshot-in-python/">Taking A Screenshot In Python</a></li><li><a href="https://usefulscripting.network/python/extracting-files-with-progress/">Extracting files with Progress</a></li>
   </ul>
 <p><a href="https://usefulscripting.network">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
@@ -50,4 +50,4 @@
 </tr>
 </tbody>
 </table>
-  <p align="center"><small>Updated once a day via <a href="https://github.com/cjerrington/cjerrington/blob/main/.github/workflows/build.yml">Github Actions</a>. Last update: Monday, January 9, 6:19 AM CST</small></p>
+  <p align="center"><small>Updated once a day via <a href="https://github.com/cjerrington/cjerrington/blob/main/.github/workflows/build.yml">Github Actions</a>.</small></p>

@@ -66,7 +66,8 @@ md.use(emoji);
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>`;
 
-  const footer = `<p align="center"><small>Updated once a day via <a href="https://github.com/cjerrington/cjerrington/blob/main/.github/workflows/build.yml">Github Actions</a>. Last update: ${now}</small></p>`
+  //const footer = `<p align="center"><small>Updated once a day via <a href="https://github.com/cjerrington/cjerrington/blob/main/.github/workflows/build.yml">Github Actions</a>. Last update: ${now}</small></p>`
+  const footer = `<p align="center"><small>Updated once a day via <a href="https://github.com/cjerrington/cjerrington/blob/main/.github/workflows/build.yml">Github Actions</a>.</small></p>`
 
   const text = `${headerText}\n\n
   ${websiteBadge} ${twitterBadge} ${linkedInBadge} ${mastodonBadge} ${instagramBadge}\n\n
@@ -95,7 +96,7 @@ async function loadBlogPosts(thefeedurl, websiteUrl) {
   let links = "";
 
   feed.items.slice(0, blogPostLimit).forEach((item) => {
-    links += `<li><a href=${item.link}>${item.title}</a></li>`;
+    links += `<li><a href="${item.link}">${item.title}</a></li>`;
   });
 
   return `
