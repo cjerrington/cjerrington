@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="/blog/how-to-start-coding/">How to start coding</a></li><li><a href="/blog/securing-jekyll-with-ssl-locally/">Securing Jekyll with SSL locally</a></li><li><a href="/blog/got-git/">Got Git?</a></li><li><a href="/blog/Netlify-redirects/">Netlify hosting and redirects</a></li><li><a href="/blog/working-wtih-jekyll-tags/">Working with Tags in Jekyll</a></li>
+    <li><a href="https://claytonerrington.com/blog/how-to-start-coding/">How to start coding</a></li><li><a href="https://claytonerrington.com/blog/securing-jekyll-with-ssl-locally/">Securing Jekyll with SSL locally</a></li><li><a href="https://claytonerrington.com/blog/got-git/">Got Git?</a></li><li><a href="https://claytonerrington.com/blog/Netlify-redirects/">Netlify hosting and redirects</a></li><li><a href="https://claytonerrington.com/blog/working-wtih-jekyll-tags/">Working with Tags in Jekyll</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
