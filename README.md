@@ -6,6 +6,10 @@
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
 <h2>My Latest Blog Posts</h2>
+  <ul>
+    <li><a href="/blog/11ty-redesign/">Website redesign with 11ty!</a></li><li><a href="/blog/linux-aliases/">Quick tips on Linux aliases</a></li><li><a href="/blog/how-to-start-coding/">How to start coding</a></li><li><a href="/blog/securing-jekyll-with-ssl-locally/">Securing Jekyll with SSL locally</a></li><li><a href="/blog/got-git/">Got Git?</a></li>
+  </ul>
+<p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
   <ul>
     <li><a href="https://usefulscripting.network/web/install-installing-jekyll-the-easy-way/">Install Installing Jekyll The Easy Way</a></li><li><a href="https://usefulscripting.network/powershell/file-dialog-with-powershell/">File Dialog With PowerShell</a></li><li><a href="https://usefulscripting.network/computers/Update-File-Programmatically/">Updating File Programmatically</a></li><li><a href="https://usefulscripting.network/python/taking-a-screenshot-in-python/">Taking A Screenshot In Python</a></li><li><a href="https://usefulscripting.network/python/extracting-files-with-progress/">Extracting files with Progress</a></li>
