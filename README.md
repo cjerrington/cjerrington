@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="/blog/github-profile-actions/">GitHub profile with actions</a></li><li><a href="/blog/11ty-redesign/">Website redesign with 11ty!</a></li><li><a href="/blog/linux-aliases/">Quick tips on Linux aliases</a></li><li><a href="/blog/how-to-start-coding/">How to start coding</a></li><li><a href="/blog/securing-jekyll-with-ssl-locally/">Securing Jekyll with SSL locally</a></li>
+    <li><a href="https://claytonerrington.com/blog/dockerize-minetest/">Getting started with docker and Minetest</a></li><li><a href="https://claytonerrington.com/blog/github-profile-actions/">GitHub profile with actions</a></li><li><a href="https://claytonerrington.com/blog/11ty-redesign/">Website redesign with 11ty!</a></li><li><a href="https://claytonerrington.com/blog/linux-aliases/">Quick tips on Linux aliases</a></li><li><a href="https://claytonerrington.com/blog/how-to-start-coding/">How to start coding</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
