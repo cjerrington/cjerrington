@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/nextcloud-docker-compose/">Nextcloud Docker Compose</a></li><li><a href="https://claytonerrington.com/blog/11ty-nunjucks-tag-count/">11ty, nunjucks, tag counts</a></li><li><a href="https://claytonerrington.com/blog/adding-a-basic-search/">Adding a basic search to a static site</a></li><li><a href="https://claytonerrington.com/blog/dockerize-minetest/">Getting started with docker and Minetest</a></li><li><a href="https://claytonerrington.com/blog/github-profile-actions/">GitHub profile with actions</a></li>
+    <li><a href="https://claytonerrington.com/blog/going-headless/">Going Headless</a></li><li><a href="https://claytonerrington.com/blog/nextcloud-docker-compose/">Nextcloud Docker Compose</a></li><li><a href="https://claytonerrington.com/blog/11ty-nunjucks-tag-count/">11ty, nunjucks, tag counts</a></li><li><a href="https://claytonerrington.com/blog/adding-a-basic-search/">Adding a basic search to a static site</a></li><li><a href="https://claytonerrington.com/blog/dockerize-minetest/">Getting started with docker and Minetest</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
