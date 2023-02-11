@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/creating-a-static-site-using-python-and-flask/">Creating a static site using Python and Flask</a></li><li><a href="https://claytonerrington.com/blog/going-headless/">Going Headless</a></li><li><a href="https://claytonerrington.com/blog/nextcloud-docker-compose/">Nextcloud Docker Compose</a></li><li><a href="https://claytonerrington.com/blog/11ty-nunjucks-tag-count/">11ty, nunjucks, tag counts</a></li><li><a href="https://claytonerrington.com/blog/adding-a-basic-search/">Adding a basic search to a static site</a></li>
+    <li><a href="https://claytonerrington.com/blog/port-checking-in-python/">Port Checking in Python</a></li><li><a href="https://claytonerrington.com/blog/creating-a-static-site-using-python-and-flask/">Creating a static site using Python and Flask</a></li><li><a href="https://claytonerrington.com/blog/going-headless/">Going Headless</a></li><li><a href="https://claytonerrington.com/blog/nextcloud-docker-compose/">Nextcloud Docker Compose</a></li><li><a href="https://claytonerrington.com/blog/11ty-nunjucks-tag-count/">11ty, nunjucks, tag counts</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
