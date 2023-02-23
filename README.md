@@ -12,7 +12,7 @@
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
   <ul>
-    <li><a href="https://usefulscripting.network/web/install-installing-jekyll-the-easy-way/">Install Installing Jekyll The Easy Way</a></li><li><a href="https://usefulscripting.network/powershell/file-dialog-with-powershell/">File Dialog With PowerShell</a></li><li><a href="https://usefulscripting.network/computers/Update-File-Programmatically/">Updating File Programmatically</a></li><li><a href="https://usefulscripting.network/python/taking-a-screenshot-in-python/">Taking A Screenshot In Python</a></li><li><a href="https://usefulscripting.network/python/extracting-files-with-progress/">Extracting files with Progress</a></li>
+    <li><a href="https://usefulscripting.network/powershell/config-files-in-power-shell/">Config Files In PowerShell</a></li><li><a href="https://usefulscripting.network/web/install-installing-jekyll-the-easy-way/">Install Installing Jekyll The Easy Way</a></li><li><a href="https://usefulscripting.network/powershell/file-dialog-with-powershell/">File Dialog With PowerShell</a></li><li><a href="https://usefulscripting.network/computers/Update-File-Programmatically/">Updating File Programmatically</a></li><li><a href="https://usefulscripting.network/python/taking-a-screenshot-in-python/">Taking A Screenshot In Python</a></li>
   </ul>
 <p><a href="https://usefulscripting.network">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
