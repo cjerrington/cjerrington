@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/select-object-with-powershell/">Select-Object with PowerShell</a></li><li><a href="https://claytonerrington.com/blog/command-line-vs-gui-windows/">Command Line vs GUI Windows programs</a></li><li><a href="https://claytonerrington.com/blog/plop-in-automation/">Plop in Automation</a></li><li><a href="https://claytonerrington.com/blog/extracting-files-with-progress/">Extracting Files with Progress</a></li><li><a href="https://claytonerrington.com/blog/port-checking-in-python/">Port Checking in Python</a></li>
+    <li><a href="https://claytonerrington.com/blog/using-cloud-flare-workers-to-get-visitor-information/">Using Cloudflare Workers to Get Visitor Information</a></li><li><a href="https://claytonerrington.com/blog/select-object-with-powershell/">Select-Object with PowerShell</a></li><li><a href="https://claytonerrington.com/blog/command-line-vs-gui-windows/">Command Line vs GUI Windows programs</a></li><li><a href="https://claytonerrington.com/blog/plop-in-automation/">Plop in Automation</a></li><li><a href="https://claytonerrington.com/blog/extracting-files-with-progress/">Extracting Files with Progress</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
