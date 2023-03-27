@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/codeberg-ci-and-11ty-builds/">Using the Codeberg CI</a></li><li><a href="https://claytonerrington.com/blog/how-i-missed-gaming/">How I Missed Gaming</a></li><li><a href="https://claytonerrington.com/blog/using-cloud-flare-workers-to-get-visitor-information/">Using Cloudflare Workers to Get Visitor Information</a></li><li><a href="https://claytonerrington.com/blog/select-object-with-powershell/">Select-Object with PowerShell</a></li><li><a href="https://claytonerrington.com/blog/command-line-vs-gui-windows/">Command Line vs GUI Windows programs</a></li>
+    <li><a href="https://claytonerrington.com/blog/intro-to-pickleball/">Intro to Pickleball</a></li><li><a href="https://claytonerrington.com/blog/codeberg-ci-and-11ty-builds/">Using the Codeberg CI</a></li><li><a href="https://claytonerrington.com/blog/how-i-missed-gaming/">How I Missed Gaming</a></li><li><a href="https://claytonerrington.com/blog/using-cloud-flare-workers-to-get-visitor-information/">Using Cloudflare Workers to Get Visitor Information</a></li><li><a href="https://claytonerrington.com/blog/select-object-with-powershell/">Select-Object with PowerShell</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
