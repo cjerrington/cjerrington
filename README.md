@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/console-speech-part-2/">Console Speech API, Part 2</a></li><li><a href="https://claytonerrington.com/blog/console-speech-api-and-beeps/">Console Speech API and Beeps</a></li><li><a href="https://claytonerrington.com/blog/spring-cleaning/">Spring Cleaning</a></li><li><a href="https://claytonerrington.com/blog/getting-into-cron-jobs/">Getting Into Cron Jobs</a></li><li><a href="https://claytonerrington.com/blog/intro-to-pickleball/">Intro to Pickleball</a></li>
+    <li><a href="https://claytonerrington.com/blog/bookmarks-in-powershell/">Bookmarks in PowerShell</a></li><li><a href="https://claytonerrington.com/blog/console-speech-part-2/">Console Speech API, Part 2</a></li><li><a href="https://claytonerrington.com/blog/console-speech-api-and-beeps/">Console Speech API and Beeps</a></li><li><a href="https://claytonerrington.com/blog/spring-cleaning/">Spring Cleaning</a></li><li><a href="https://claytonerrington.com/blog/getting-into-cron-jobs/">Getting Into Cron Jobs</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
