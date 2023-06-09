@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/powershell-gui-with-wpf/">Powershell GUI with WPF</a></li><li><a href="https://claytonerrington.com/blog/ubuntus-change-with-python-support/">Ubuntu's change with Python support</a></li><li><a href="https://claytonerrington.com/blog/bookmarks-in-powershell/">Bookmarks in PowerShell</a></li><li><a href="https://claytonerrington.com/blog/console-speech-part-2/">Console Speech API, Part 2</a></li><li><a href="https://claytonerrington.com/blog/console-speech-api-and-beeps/">Console Speech API and Beeps</a></li>
+    <li><a href="https://claytonerrington.com/blog/finding-windows-install-date/">Finding your Windows Install Date</a></li><li><a href="https://claytonerrington.com/blog/powershell-gui-with-wpf/">Powershell GUI with WPF</a></li><li><a href="https://claytonerrington.com/blog/ubuntus-change-with-python-support/">Ubuntu's change with Python support</a></li><li><a href="https://claytonerrington.com/blog/bookmarks-in-powershell/">Bookmarks in PowerShell</a></li><li><a href="https://claytonerrington.com/blog/console-speech-part-2/">Console Speech API, Part 2</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
