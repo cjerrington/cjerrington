@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/mapping-the-interner/">Mapping the internet</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics/">Wordle Analytics</a></li><li><a href="https://claytonerrington.com/blog/finding-windows-install-date/">Finding your Windows Install Date</a></li><li><a href="https://claytonerrington.com/blog/powershell-gui-with-wpf/">Powershell GUI with WPF</a></li><li><a href="https://claytonerrington.com/blog/ubuntus-change-with-python-support/">Ubuntu's change with Python support</a></li>
+    <li><a href="https://claytonerrington.com/blog/wordle-analytics-june-2023/">Wordle Analytics - June 2023</a></li><li><a href="https://claytonerrington.com/blog/mapping-the-interner/">Mapping the internet</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics/">Wordle Analytics</a></li><li><a href="https://claytonerrington.com/blog/finding-windows-install-date/">Finding your Windows Install Date</a></li><li><a href="https://claytonerrington.com/blog/powershell-gui-with-wpf/">Powershell GUI with WPF</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
