@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/what-is-in-your-headers/">What is in Your Headers?</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics-june-2023/">Wordle Analytics - June 2023</a></li><li><a href="https://claytonerrington.com/blog/mapping-the-internet/">Mapping the internet</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics/">Wordle Analytics</a></li><li><a href="https://claytonerrington.com/blog/finding-windows-install-date/">Finding your Windows Install Date</a></li>
+    <li><a href="https://claytonerrington.com/blog/i-broke-next-cloud-again/">I Broke NextCloud, Again</a></li><li><a href="https://claytonerrington.com/blog/what-is-in-your-headers/">What is in Your Headers?</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics-june-2023/">Wordle Analytics - June 2023</a></li><li><a href="https://claytonerrington.com/blog/mapping-the-internet/">Mapping the internet</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics/">Wordle Analytics</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
