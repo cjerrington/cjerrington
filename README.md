@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/wordle-analytics-august-2023/">Wordle Analytics - August 2023</a></li><li><a href="https://claytonerrington.com/blog/manage-aws-instances/">Manage AWS Instances</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics-july-2023/">Wordle Analytics - July 2023</a></li><li><a href="https://claytonerrington.com/blog/i-broke-next-cloud-again/">I Broke NextCloud, Again</a></li><li><a href="https://claytonerrington.com/blog/what-is-in-your-headers/">What is in Your Headers?</a></li>
+    <li><a href="https://claytonerrington.com/blog/the-good-side-of-analytics-umami-vercel/">The Good Side of Analytics - Umami & Vercel</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics-august-2023/">Wordle Analytics - August 2023</a></li><li><a href="https://claytonerrington.com/blog/manage-aws-instances/">Manage AWS Instances</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics-july-2023/">Wordle Analytics - July 2023</a></li><li><a href="https://claytonerrington.com/blog/i-broke-next-cloud-again/">I Broke NextCloud, Again</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
