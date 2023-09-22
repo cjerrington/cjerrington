@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/list-throttling-with-python/">List Throttling with Python</a></li><li><a href="https://claytonerrington.com/blog/migrating-gpg-keys-to-new-a-machine/">Migrating GPG keys to a new machine</a></li><li><a href="https://claytonerrington.com/blog/installing-nodejs-on-fedora/">Installing NodeJS on Fedora</a></li><li><a href="https://claytonerrington.com/blog/cloudcannon-eleventy/">CloudCannon + Eleventy</a></li><li><a href="https://claytonerrington.com/blog/the-good-side-of-analytics-umami-vercel/">The Good Side of Analytics - Umami & Vercel</a></li>
+    <li><a href="https://claytonerrington.com/blog/adding-some-flare-to-rss/">Adding some flare to RSS</a></li><li><a href="https://claytonerrington.com/blog/list-throttling-with-python/">List Throttling with Python</a></li><li><a href="https://claytonerrington.com/blog/migrating-gpg-keys-to-new-a-machine/">Migrating GPG keys to a new machine</a></li><li><a href="https://claytonerrington.com/blog/installing-nodejs-on-fedora/">Installing NodeJS on Fedora</a></li><li><a href="https://claytonerrington.com/blog/cloudcannon-eleventy/">CloudCannon + Eleventy</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
