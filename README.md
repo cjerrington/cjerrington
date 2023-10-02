@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/creating-status-pages-on-the-fly/">Creating Status Pages on the Fly</a></li><li><a href="https://claytonerrington.com/blog/scheduling-automatic-builds-with-static-site-generators/">Scheduling Automatic Builds with Static Site Generators</a></li><li><a href="https://claytonerrington.com/blog/boto3-cross-region-client/">Boto3 cross regions for AWS Lambda Functions</a></li><li><a href="https://claytonerrington.com/blog/building-a-blogroll-with-11ty/">Building a Blogroll with 11ty</a></li><li><a href="https://claytonerrington.com/blog/adding-some-flare-to-rss/">Adding some flare to RSS</a></li>
+    <li><a href="https://claytonerrington.com/blog/wordle-analytics-september-2023/">Wordle Analytics - September 2023</a></li><li><a href="https://claytonerrington.com/blog/using-cheatsheets/">Using Cheat sheets</a></li><li><a href="https://claytonerrington.com/blog/creating-status-pages-on-the-fly/">Creating Status Pages on the Fly</a></li><li><a href="https://claytonerrington.com/blog/scheduling-automatic-builds-with-static-site-generators/">Scheduling Automatic Builds with Static Site Generators</a></li><li><a href="https://claytonerrington.com/blog/boto3-cross-region-client/">Boto3 cross regions for AWS Lambda Functions</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
