@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/robots-and-ai/">Robots and AI</a></li><li><a href="https://claytonerrington.com/blog/file-encryption-with-gpg/">File Encryption with GPG</a></li><li><a href="https://claytonerrington.com/blog/retro-gaming/">Retro Gaming</a></li><li><a href="https://claytonerrington.com/blog/creating-a-test-file/">Creating a Test File</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics-september-2023/">Wordle Analytics - September 2023</a></li>
+    <li><a href="https://claytonerrington.com/blog/hosting-freshrss-on-fly-io/">Hosting FreshRSS on Fly.io</a></li><li><a href="https://claytonerrington.com/blog/robots-and-ai/">Robots and AI</a></li><li><a href="https://claytonerrington.com/blog/file-encryption-with-gpg/">File Encryption with GPG</a></li><li><a href="https://claytonerrington.com/blog/retro-gaming/">Retro Gaming</a></li><li><a href="https://claytonerrington.com/blog/creating-a-test-file/">Creating a Test File</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
