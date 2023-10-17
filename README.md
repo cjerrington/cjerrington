@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/100-days-to-offload-update/">100 Days to Offload Update</a></li><li><a href="https://claytonerrington.com/blog/network-usage-since-last-boot/">Network Usage Since Last Boot</a></li><li><a href="https://claytonerrington.com/blog/hosting-freshrss-on-fly-io/">Hosting FreshRSS on Fly.io</a></li><li><a href="https://claytonerrington.com/blog/robots-and-ai/">Robots and AI</a></li><li><a href="https://claytonerrington.com/blog/file-encryption-with-gpg/">File Encryption with GPG</a></li>
+    <li><a href="https://claytonerrington.com/blog/verifying-ubuntu-23-10-1-iso/">Verifying Ubuntu 23.10.1 ISO</a></li><li><a href="https://claytonerrington.com/blog/updating-umami-analytics/">Updating Umami Analytics</a></li><li><a href="https://claytonerrington.com/blog/taking-a-screenshot-in-python/">Taking A Screenshot In Python</a></li><li><a href="https://claytonerrington.com/blog/100-days-to-offload-update/">100 Days to Offload Update</a></li><li><a href="https://claytonerrington.com/blog/network-usage-since-last-boot/">Network Usage Since Last Boot</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
