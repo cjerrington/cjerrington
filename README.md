@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/my-linux-journey/">My Linux Journey</a></li><li><a href="https://claytonerrington.com/blog/using-regex-to-get-a-unc-path/">Regex a UNC path</a></li><li><a href="https://claytonerrington.com/blog/implementing-tinacms-with-11ty/">TinaCMS + 11ty</a></li><li><a href="https://claytonerrington.com/blog/verifying-ubuntu-23-10-1-iso/">Verifying Ubuntu 23.10.1 ISO</a></li><li><a href="https://claytonerrington.com/blog/updating-umami-analytics/">Updating Umami Analytics</a></li>
+    <li><a href="https://claytonerrington.com/blog/simple-http-server/">Simple HTTP Server</a></li><li><a href="https://claytonerrington.com/blog/my-linux-journey/">My Linux Journey</a></li><li><a href="https://claytonerrington.com/blog/using-regex-to-get-a-unc-path/">Regex a UNC path</a></li><li><a href="https://claytonerrington.com/blog/implementing-tinacms-with-11ty/">TinaCMS + 11ty</a></li><li><a href="https://claytonerrington.com/blog/verifying-ubuntu-23-10-1-iso/">Verifying Ubuntu 23.10.1 ISO</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
