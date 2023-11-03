@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/using-chatgpt-wisely/">Using ChatGPT wisely</a></li><li><a href="https://claytonerrington.com/blog/simple-http-server/">Simple HTTP Server</a></li><li><a href="https://claytonerrington.com/blog/my-linux-journey/">My Linux Journey</a></li><li><a href="https://claytonerrington.com/blog/using-regex-to-get-a-unc-path/">Regex a UNC path</a></li><li><a href="https://claytonerrington.com/blog/implementing-tinacms-with-11ty/">TinaCMS + 11ty</a></li>
+    <li><a href="https://claytonerrington.com/blog/2023-11-2-installing-nodejs-on-pop!_os/">Installing NodeJS on Pop!_OS 22.04 LTS</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics-october-2023/">Wordle Analytics - October 2023</a></li><li><a href="https://claytonerrington.com/blog/using-chatgpt-wisely/">Using ChatGPT wisely</a></li><li><a href="https://claytonerrington.com/blog/simple-http-server/">Simple HTTP Server</a></li><li><a href="https://claytonerrington.com/blog/my-linux-journey/">My Linux Journey</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
