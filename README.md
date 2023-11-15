@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/almost-there/">Almost there - 100DaysToOffload</a></li><li><a href="https://claytonerrington.com/blog/download-latest-file-from-s3-bucket/">Download latest file from a S3 Bucket</a></li><li><a href="https://claytonerrington.com/blog/posting-from-my-phone/">Posting from my phone</a></li><li><a href="https://claytonerrington.com/blog/default-apps/">Default apps</a></li><li><a href="https://claytonerrington.com/blog/git-status/">Git Status</a></li>
+    <li><a href="https://claytonerrington.com/blog/gnome-vs-kde/">GNOME VS KDE</a></li><li><a href="https://claytonerrington.com/blog/almost-there/">Almost there - 100DaysToOffload</a></li><li><a href="https://claytonerrington.com/blog/download-latest-file-from-s3-bucket/">Download latest file from a S3 Bucket</a></li><li><a href="https://claytonerrington.com/blog/posting-from-my-phone/">Posting from my phone</a></li><li><a href="https://claytonerrington.com/blog/default-apps/">Default apps</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
