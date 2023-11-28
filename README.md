@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/migrating-2fa-apps/">Migrating 2FA apps</a></li><li><a href="https://claytonerrington.com/blog/hardware-and-tech-i-use/">Hardware and Tech I Use</a></li><li><a href="https://claytonerrington.com/blog/following-rss/">Do you follow RSS?</a></li><li><a href="https://claytonerrington.com/blog/gnome-vs-kde/">GNOME VS KDE</a></li><li><a href="https://claytonerrington.com/blog/almost-there/">Almost there - 100DaysToOffload</a></li>
+    <li><a href="https://claytonerrington.com/blog/write-fast-deploy-update/">Write fast, deploy, update</a></li><li><a href="https://claytonerrington.com/blog/migrating-2fa-apps/">Migrating 2FA apps</a></li><li><a href="https://claytonerrington.com/blog/hardware-and-tech-i-use/">Hardware and Tech I Use</a></li><li><a href="https://claytonerrington.com/blog/following-rss/">Do you follow RSS?</a></li><li><a href="https://claytonerrington.com/blog/gnome-vs-kde/">GNOME VS KDE</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
