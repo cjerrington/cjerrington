@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/updating-docker-containers/">Updating Docker Containers</a></li><li><a href="https://claytonerrington.com/blog/advent-of-code-2023-day-4/">Advent of Code - Day 4</a></li><li><a href="https://claytonerrington.com/blog/changing-git-config-url/">Changing Git config URL</a></li><li><a href="https://claytonerrington.com/blog/advent-of-code-2023-day-1/">Advent of Code - Day 1</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics-november-2023/">Wordle Analytics - November 2023</a></li>
+    <li><a href="https://claytonerrington.com/blog/making-notepad-with-html/">Making Notepad with HTML in your browser</a></li><li><a href="https://claytonerrington.com/blog/updating-docker-containers/">Updating Docker Containers</a></li><li><a href="https://claytonerrington.com/blog/advent-of-code-2023-day-4/">Advent of Code - Day 4</a></li><li><a href="https://claytonerrington.com/blog/changing-git-config-url/">Changing Git config URL</a></li><li><a href="https://claytonerrington.com/blog/advent-of-code-2023-day-1/">Advent of Code - Day 1</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
