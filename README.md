@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/automation-waiting-game/">Automation waiting game</a></li><li><a href="https://claytonerrington.com/blog/going-through-the-collections/">The Collection</a></li><li><a href="https://claytonerrington.com/blog/mobile-writing-part-2/">Mobile writing, part 2</a></li><li><a href="https://claytonerrington.com/blog/getting-into-podcasts/">Getting into Podcasts</a></li><li><a href="https://claytonerrington.com/blog/using-pscustomobjects/">Using PSCustomObjects</a></li>
+    <li><a href="https://claytonerrington.com/blog/expanding-urls-in-powershell/">Expanding URLs in Powershell</a></li><li><a href="https://claytonerrington.com/blog/automation-waiting-game/">Automation waiting game</a></li><li><a href="https://claytonerrington.com/blog/going-through-the-collections/">The Collection</a></li><li><a href="https://claytonerrington.com/blog/mobile-writing-part-2/">Mobile writing, part 2</a></li><li><a href="https://claytonerrington.com/blog/getting-into-podcasts/">Getting into Podcasts</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
