@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/2024-2-9-adding-reply-by-email/">Adding Reply by Email</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics-january-2024/">Wordle Analytics - January 2024</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics-december-2023/">Wordle Analytics - December 2023</a></li><li><a href="https://claytonerrington.com/blog/year-in-review/">Year in Review</a></li><li><a href="https://claytonerrington.com/blog/codeberg-pages/">Updating Codeberg Pages Static Sites</a></li>
+    <li><a href="https://claytonerrington.com/blog/adding-reply-by-email/">Adding Reply by Email</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics-january-2024/">Wordle Analytics - January 2024</a></li><li><a href="https://claytonerrington.com/blog/wordle-analytics-december-2023/">Wordle Analytics - December 2023</a></li><li><a href="https://claytonerrington.com/blog/year-in-review/">Year in Review</a></li><li><a href="https://claytonerrington.com/blog/codeberg-pages/">Updating Codeberg Pages Static Sites</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
