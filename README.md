@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/bookmarks-in-bash/">Bookmarks in Bash</a></li><li><a href="https://claytonerrington.com/blog/obsolete-hardware/">Obsolete Hardware</a></li><li><a href="https://claytonerrington.com/blog/which-path/">Which $PATH</a></li><li><a href="https://claytonerrington.com/blog/finding-specific-day-of-the-month/">Finding the specific day of the month with PowerShell</a></li><li><a href="https://claytonerrington.com/blog/website-update/">Website redesign and update</a></li>
+    <li><a href="https://claytonerrington.com/blog/umami-api-top-10-pages/">Umami API Top 10 Pages</a></li><li><a href="https://claytonerrington.com/blog/bookmarks-in-bash/">Bookmarks in Bash</a></li><li><a href="https://claytonerrington.com/blog/obsolete-hardware/">Obsolete Hardware</a></li><li><a href="https://claytonerrington.com/blog/which-path/">Which $PATH</a></li><li><a href="https://claytonerrington.com/blog/finding-specific-day-of-the-month/">Finding the specific day of the month with PowerShell</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
