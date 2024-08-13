@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/shell-conditions/?utm_source=rss">Conditioning the Shell</a></li><li><a href="https://claytonerrington.com/blog/showing-omnivore-links-as-bookmarks/?utm_source=rss">Showing Omnivore links as Bookmarks</a></li><li><a href="https://claytonerrington.com/blog/codeberg-profile/?utm_source=rss">Updating your Codeberg profile</a></li><li><a href="https://claytonerrington.com/blog/vercel-skip-deploy-on-ci-integration/?utm_source=rss">Skipping the CI Build on commit</a></li><li><a href="https://claytonerrington.com/blog/mattrbld-cms/?utm_source=rss">Test from Mattrbld</a></li>
+    <li><a href="https://claytonerrington.com/blog/cleaning-up-scoop/?utm_source=rss">Cleaning up Scoop</a></li><li><a href="https://claytonerrington.com/blog/shell-conditions/?utm_source=rss">Conditioning the Shell</a></li><li><a href="https://claytonerrington.com/blog/showing-omnivore-links-as-bookmarks/?utm_source=rss">Showing Omnivore links as Bookmarks</a></li><li><a href="https://claytonerrington.com/blog/codeberg-profile/?utm_source=rss">Updating your Codeberg profile</a></li><li><a href="https://claytonerrington.com/blog/vercel-skip-deploy-on-ci-integration/?utm_source=rss">Skipping the CI Build on commit</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
