@@ -21,6 +21,14 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://static.quest/">Static.Quest</a></td>
+<td>A web ring focused to list all the amazing static websites</td>
+</tr>
+<tr>
+<td><a href="https://codeberg.org/cjerrington/Bookmarks">Bookmarks for PowerShell</a></td>
+<td>A simple bookmark system for powershell to set shortcuts to quickly change directories while using the prompt</td>
+</tr>
+<tr>
 <td><a href="https://github.com/cjerrington/SQLBuilder/blob/main/README.md">SQLBuilder</a></td>
 <td>Simple SQL Attach Script Generator</td>
 </tr>
