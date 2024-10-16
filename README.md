@@ -25,8 +25,8 @@
 <td>A web ring focused to list all the amazing static websites</td>
 </tr>
 <tr>
-<td><a href="https://codeberg.org/cjerrington/Bookmarks">Bookmarks for PowerShell</a></td>
-<td>A simple bookmark system for powershell to set shortcuts to quickly change directories while using the prompt</td>
+<td><a href="https://codeberg.org/cjerrington/Bookmarks">Bookmarks</a></td>
+<td>A simple bookmark system for PowerShell and Bash to set shortcuts to quickly change directories while using the prompt</td>
 </tr>
 <tr>
 <td><a href="https://github.com/cjerrington/SQLBuilder/blob/main/README.md">SQLBuilder</a></td>
