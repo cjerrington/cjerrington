@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/powershell-error-handling/?utm_source=rss">Try to Catch PowerShell Error Handling</a></li><li><a href="https://claytonerrington.com/blog/its-always-dns/?utm_source=rss">It's always DNS</a></li><li><a href="https://claytonerrington.com/blog/when-texting-destroyed-communication/?utm_source=rss">When Texting destroyed communication</a></li><li><a href="https://claytonerrington.com/blog/nodejs-environment-variable-checks/?utm_source=rss">Checking for Environment Variables in a Node.js project</a></li><li><a href="https://claytonerrington.com/blog/upgrading-eleventy/?utm_source=rss">Upgrading 11ty to v3</a></li>
+    <li><a href="https://claytonerrington.com/blog/the100pics-1/?utm_source=rss">100 Pics - Day 1</a></li><li><a href="https://claytonerrington.com/blog/reviwing-2024/?utm_source=rss">Reviewing 2024</a></li><li><a href="https://claytonerrington.com/blog/powershell-error-handling/?utm_source=rss">Try to Catch PowerShell Error Handling</a></li><li><a href="https://claytonerrington.com/blog/its-always-dns/?utm_source=rss">It's always DNS</a></li><li><a href="https://claytonerrington.com/blog/when-texting-destroyed-communication/?utm_source=rss">When Texting destroyed communication</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
