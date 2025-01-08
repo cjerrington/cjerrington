@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/tagging-aws-ebs-volumes/?utm_source=rss">How to tag AWS EBS volumes on Linux EC2 Servers</a></li><li><a href="https://claytonerrington.com/blog/the100pics-1/?utm_source=rss">100 Pics - Day 1</a></li><li><a href="https://claytonerrington.com/blog/reviewing-2024/?utm_source=rss">Reviewing 2024</a></li><li><a href="https://claytonerrington.com/blog/powershell-error-handling/?utm_source=rss">Try to Catch PowerShell Error Handling</a></li><li><a href="https://claytonerrington.com/blog/its-always-dns/?utm_source=rss">It's always DNS</a></li>
+    <li><a href="https://claytonerrington.com/blog/the100pics-002/?utm_source=rss">100 Pics - Day 2</a></li><li><a href="https://claytonerrington.com/blog/tagging-aws-ebs-volumes/?utm_source=rss">How to tag AWS EBS volumes on Linux EC2 Servers</a></li><li><a href="https://claytonerrington.com/blog/the100pics-1/?utm_source=rss">100 Pics - Day 1</a></li><li><a href="https://claytonerrington.com/blog/reviewing-2024/?utm_source=rss">Reviewing 2024</a></li><li><a href="https://claytonerrington.com/blog/powershell-error-handling/?utm_source=rss">Try to Catch PowerShell Error Handling</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
