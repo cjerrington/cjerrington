@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/the100pics-6/?utm_source=rss">100 Pics - Day 6</a></li><li><a href="https://claytonerrington.com/blog/jellyfin-and-ssl/?utm_source=rss">Jellyfin and SSL</a></li><li><a href="https://claytonerrington.com/blog/the100pics-5/?utm_source=rss">100 Pics - Day 5</a></li><li><a href="https://claytonerrington.com/blog/be-proud-of-your-work/?utm_source=rss">Be Proud of Your Work</a></li><li><a href="https://claytonerrington.com/blog/blog-questions-challenge-2025/?utm_source=rss">Blog Questions Challenge 2025</a></li>
+    <li><a href="https://claytonerrington.com/blog/codeberg-migration/?utm_source=rss">Codeberg Migration</a></li><li><a href="https://claytonerrington.com/blog/the100pics-6/?utm_source=rss">100 Pics - Day 6</a></li><li><a href="https://claytonerrington.com/blog/jellyfin-and-ssl/?utm_source=rss">Jellyfin and SSL</a></li><li><a href="https://claytonerrington.com/blog/the100pics-5/?utm_source=rss">100 Pics - Day 5</a></li><li><a href="https://claytonerrington.com/blog/be-proud-of-your-work/?utm_source=rss">Be Proud of Your Work</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
