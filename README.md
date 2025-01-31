@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/securing-11ty-with-ssl-locally/?utm_source=rss">Securing 11ty with SSL Locally</a></li><li><a href="https://claytonerrington.com/blog/the100pics-8/?utm_source=rss">100 Pics - Day 8</a></li><li><a href="https://claytonerrington.com/blog/the100pics-7/?utm_source=rss">100 Pics - Day 7</a></li><li><a href="https://claytonerrington.com/blog/adding-gpg-to-codeberg-from-windows/?utm_source=rss">Adding GPG to Codeberg From Windows</a></li><li><a href="https://claytonerrington.com/blog/codeberg-migration/?utm_source=rss">Codeberg Migration</a></li>
+    <li><a href="https://claytonerrington.com/blog/the100pics-9/?utm_source=rss">100 Pics - Day 9</a></li><li><a href="https://claytonerrington.com/blog/securing-11ty-with-ssl-locally/?utm_source=rss">Securing 11ty with SSL Locally</a></li><li><a href="https://claytonerrington.com/blog/the100pics-8/?utm_source=rss">100 Pics - Day 8</a></li><li><a href="https://claytonerrington.com/blog/the100pics-7/?utm_source=rss">100 Pics - Day 7</a></li><li><a href="https://claytonerrington.com/blog/adding-gpg-to-codeberg-from-windows/?utm_source=rss">Adding GPG to Codeberg From Windows</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
