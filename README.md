@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/burning-musical-memories/?utm_source=rss">Burning musical memories</a></li><li><a href="https://claytonerrington.com/blog/the100pics-10/?utm_source=rss">100 Pics - Day 10</a></li><li><a href="https://claytonerrington.com/blog/the100pics-9/?utm_source=rss">100 Pics - Day 9</a></li><li><a href="https://claytonerrington.com/blog/securing-11ty-with-ssl-locally/?utm_source=rss">Securing 11ty with SSL Locally</a></li><li><a href="https://claytonerrington.com/blog/the100pics-8/?utm_source=rss">100 Pics - Day 8</a></li>
+    <li><a href="https://claytonerrington.com/blog/the100pics-11/?utm_source=rss">100 Pics - Day 11</a></li><li><a href="https://claytonerrington.com/blog/aws-ec2-termination-protection/?utm_source=rss">AWS EC2 termination protection</a></li><li><a href="https://claytonerrington.com/blog/burning-musical-memories/?utm_source=rss">Burning musical memories</a></li><li><a href="https://claytonerrington.com/blog/the100pics-10/?utm_source=rss">100 Pics - Day 10</a></li><li><a href="https://claytonerrington.com/blog/the100pics-9/?utm_source=rss">100 Pics - Day 9</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
