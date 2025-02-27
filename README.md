@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/too-much-data/?utm_source=rss">Too Much Data</a></li><li><a href="https://claytonerrington.com/blog/the100pics-13/?utm_source=rss">100 Pics - Day 13</a></li><li><a href="https://claytonerrington.com/blog/view-public-gpg-fingerprints/?utm_source=rss">Confirming public GPG fingerprints from Git platforms</a></li><li><a href="https://claytonerrington.com/blog/the100pics-12/?utm_source=rss">100 Pics - Day 12</a></li><li><a href="https://claytonerrington.com/blog/the100pics-11/?utm_source=rss">100 Pics - Day 11</a></li>
+    <li><a href="https://claytonerrington.com/blog/the100pics-14/?utm_source=rss">100 Pics - Day 14</a></li><li><a href="https://claytonerrington.com/blog/switch-python-to-match/?utm_source=rss">Switch Python to Match</a></li><li><a href="https://claytonerrington.com/blog/too-much-data/?utm_source=rss">Too Much Data</a></li><li><a href="https://claytonerrington.com/blog/the100pics-13/?utm_source=rss">100 Pics - Day 13</a></li><li><a href="https://claytonerrington.com/blog/view-public-gpg-fingerprints/?utm_source=rss">Confirming public GPG fingerprints from Git platforms</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
