@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/the100pics-15/?utm_source=rss">100 Pics - Day 15</a></li><li><a href="https://claytonerrington.com/blog/updated-plop-automation/?utm_source=rss">Updated Plop Automation 2.0</a></li><li><a href="https://claytonerrington.com/blog/human-readable-file-sizes-in-power-shell/?utm_source=rss">Human Readable File Sizes in PowerShell</a></li><li><a href="https://claytonerrington.com/blog/reverse-reverse/?utm_source=rss">Reverse, esreveR</a></li><li><a href="https://claytonerrington.com/blog/the100pics-14/?utm_source=rss">100 Pics - Day 14</a></li>
+    <li><a href="https://claytonerrington.com/blog/get-ip-from-dns-name-using-python/?utm_source=rss">Get IP From DNS Name Using Python</a></li><li><a href="https://claytonerrington.com/blog/the100pics-15/?utm_source=rss">100 Pics - Day 15</a></li><li><a href="https://claytonerrington.com/blog/updated-plop-automation/?utm_source=rss">Updated Plop Automation 2.0</a></li><li><a href="https://claytonerrington.com/blog/human-readable-file-sizes-in-power-shell/?utm_source=rss">Human Readable File Sizes in PowerShell</a></li><li><a href="https://claytonerrington.com/blog/reverse-reverse/?utm_source=rss">Reverse, esreveR</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
