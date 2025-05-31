@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/journa11ty/?utm_source=rss">Journa11ty</a></li><li><a href="https://claytonerrington.com/blog/halo-combat-evolved-pc/?utm_source=rss">Halo: Combat Evolved</a></li><li><a href="https://claytonerrington.com/blog/get-ip-from-dns-name-using-python/?utm_source=rss">Get IP From DNS Name Using Python</a></li><li><a href="https://claytonerrington.com/blog/the100pics-15/?utm_source=rss">100 Pics - Day 15</a></li><li><a href="https://claytonerrington.com/blog/updated-plop-automation/?utm_source=rss">Updated Plop Automation 2.0</a></li>
+    <li><a href="https://claytonerrington.com/blog/setup-glance-on-fly-io/?utm_source=rss">Setup Glance on Fly.io</a></li><li><a href="https://claytonerrington.com/blog/journa11ty/?utm_source=rss">Journa11ty</a></li><li><a href="https://claytonerrington.com/blog/halo-combat-evolved-pc/?utm_source=rss">Halo: Combat Evolved</a></li><li><a href="https://claytonerrington.com/blog/get-ip-from-dns-name-using-python/?utm_source=rss">Get IP From DNS Name Using Python</a></li><li><a href="https://claytonerrington.com/blog/the100pics-15/?utm_source=rss">100 Pics - Day 15</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Useful Scripting Network Blog Posts</h2>
