@@ -13,7 +13,6 @@ const feedUrl = "https://claytonerrington.com/feed.xml";
 const usefulscriptingFeedURL = "https://usefulscripting.network/feed.xml"
 const usnWebsite = "https://usefulscripting.network"
 const mywebsite = "https://claytonerrington.com";
-const twitterUrl = "https://www.twitter.com/cjerrington";
 const linkedInUrl = "https://www.linkedin.com/in/claytonerrington/";
 const mastodonUrl = "https://mstdn.social/@cjerrington"
 const instagramUrl = "https://www.instagram.com/cjerrington/";
@@ -60,7 +59,6 @@ md.use(emoji);
   //const headerImage = `<img src="https://i.imgur.com/RK1kR8g.png" alt="cjerrington GitHub README header image">`;
   const websiteBadge = `[<img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=flat-square&up_color=blue&up_message=claytonerrington.com&url=https%3A%2F%2Fclaytonerrington.com" height=${badgeHeight}>](${mywebsite})`;
   const mastodonBadge = `[<img src="https://img.shields.io/mastodon/follow/108200000569711642?domain=https%3A%2F%2Fmstdn.social&style=for-the-badge" height=${badgeHeight}>](${mastodonUrl})`;
-  const twitterBadge = `[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=${badgeHeight}>](${twitterUrl})`;
   const linkedInBadge = `[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=${badgeHeight}>](${linkedInUrl})`;
   const instagramBadge = `[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=${badgeHeight}>](${instagramUrl})`;
   
@@ -72,7 +70,7 @@ md.use(emoji);
   const footer = `<p align="center"><small>Updated once a day via <a href="https://github.com/cjerrington/cjerrington/blob/main/.github/workflows/build.yml">Github Actions</a>.</small></p>`
 
   const text = `${headerText}\n\n
-  ${websiteBadge} ${twitterBadge} ${linkedInBadge} ${mastodonBadge} ${instagramBadge}\n\n
+  ${websiteBadge} ${linkedInBadge} ${mastodonBadge} ${instagramBadge}\n\n
   [:arrow_right: Check out my website](${mywebsite})\n\n
   ${buyMeACoffeeButton}\n\n
   ## My Latest Blog Posts\n
