@@ -10,8 +10,6 @@ const Parser = require("rss-parser");
 const parser = new Parser();
 
 const feedUrl = "https://claytonerrington.com/feed.xml";
-const usefulscriptingFeedURL = "https://usefulscripting.network/feed.xml"
-const usnWebsite = "https://usefulscripting.network"
 const mywebsite = "https://claytonerrington.com";
 const linkedInUrl = "https://www.linkedin.com/in/claytonerrington/";
 const mastodonUrl = "https://mstdn.social/@cjerrington"
@@ -39,13 +37,6 @@ md.use(emoji);
     blogPosts = await loadBlogPosts(feedUrl, mywebsite);
   } catch (e) {
     console.error(`Failed to load blog posts from ${mywebsite}`, e);
-  }
-
-  let usnblogPosts = "";
-  try {
-    usnblogPosts = await loadBlogPosts(usefulscriptingFeedURL, usnWebsite);
-  } catch (e) {
-    console.error(`Failed to load blog posts from ${usnWebsite}`, e);
   }
   
   let now = "";
@@ -75,8 +66,6 @@ md.use(emoji);
   ${buyMeACoffeeButton}\n\n
   ## My Latest Blog Posts\n
   ${blogPosts}\n
-  ## Useful Scripting Network Blog Posts\n 
-  ${usnblogPosts}
   ## Noteworthy Projects
   ${projects}\m
   ${footer}
