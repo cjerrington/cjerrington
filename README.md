@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/updated-search-to-use-page-find/?utm_source=rss">Updated Search to Use PageFind</a></li><li><a href="https://claytonerrington.com/blog/i-read-a-book/?utm_source=rss">I Read a Book</a></li><li><a href="https://claytonerrington.com/blog/gaming-on-the-switch/?utm_source=rss">Gaming on the Switch</a></li><li><a href="https://claytonerrington.com/blog/kernel-panic/?utm_source=rss">Kernel Panic!</a></li><li><a href="https://claytonerrington.com/blog/setup-glance-on-fly-io/?utm_source=rss">Setup Glance on Fly.io</a></li>
+    <li><a href="https://claytonerrington.com/blog/ssm-document-output/?utm_source=rss">SSM Document Output</a></li><li><a href="https://claytonerrington.com/blog/updated-search-to-use-page-find/?utm_source=rss">Updated Search to Use PageFind</a></li><li><a href="https://claytonerrington.com/blog/i-read-a-book/?utm_source=rss">I Read a Book</a></li><li><a href="https://claytonerrington.com/blog/gaming-on-the-switch/?utm_source=rss">Gaming on the Switch</a></li><li><a href="https://claytonerrington.com/blog/kernel-panic/?utm_source=rss">Kernel Panic!</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
