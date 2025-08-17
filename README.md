@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/notetaking/?utm_source=rss">Notetaking today</a></li><li><a href="https://claytonerrington.com/blog/timing-scripts/?utm_source=rss">Timing Scripts</a></li><li><a href="https://claytonerrington.com/blog/the-invasion-of-advertising/?utm_source=rss">The Invasion of Advertising</a></li><li><a href="https://claytonerrington.com/blog/ssm-document-output/?utm_source=rss">SSM Document Output</a></li><li><a href="https://claytonerrington.com/blog/updated-search-to-use-page-find/?utm_source=rss">Updated Search to Use PageFind</a></li>
+    <li><a href="https://claytonerrington.com/blog/updated-drafts/?utm_source=rss">Updated My Draft System</a></li><li><a href="https://claytonerrington.com/blog/notetaking/?utm_source=rss">Notetaking today</a></li><li><a href="https://claytonerrington.com/blog/timing-scripts/?utm_source=rss">Timing Scripts</a></li><li><a href="https://claytonerrington.com/blog/the-invasion-of-advertising/?utm_source=rss">The Invasion of Advertising</a></li><li><a href="https://claytonerrington.com/blog/ssm-document-output/?utm_source=rss">SSM Document Output</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
