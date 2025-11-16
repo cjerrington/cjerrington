@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/tv-show-recommendations/?utm_source=rss">TV Show Recommendations</a></li><li><a href="https://claytonerrington.com/blog/when-ai-is-helpful/?utm_source=rss">When AI Is Helpful</a></li><li><a href="https://claytonerrington.com/blog/this-could-have-been-a-movie/?utm_source=rss">This Could Have Been a Movie</a></li><li><a href="https://claytonerrington.com/blog/saving-the-night-at-a-restaurant/?utm_source=rss">Saving the night at a restaurant</a></li><li><a href="https://claytonerrington.com/blog/how-i-use-neovim/?utm_source=rss">How I Use Neovim</a></li>
+    <li><a href="https://claytonerrington.com/blog/updated-bookmarks/?utm_source=rss">Updated Bookmarks</a></li><li><a href="https://claytonerrington.com/blog/the100pics-17/?utm_source=rss">100 Pics - Day 17</a></li><li><a href="https://claytonerrington.com/blog/tv-show-recommendations/?utm_source=rss">TV Show Recommendations</a></li><li><a href="https://claytonerrington.com/blog/when-ai-is-helpful/?utm_source=rss">When AI Is Helpful</a></li><li><a href="https://claytonerrington.com/blog/this-could-have-been-a-movie/?utm_source=rss">This Could Have Been a Movie</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
