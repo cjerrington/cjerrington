@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/static-quest/?utm_source=rss">Static.Quest review</a></li><li><a href="https://claytonerrington.com/blog/updated-bookmarks/?utm_source=rss">Updated Bookmarks</a></li><li><a href="https://claytonerrington.com/blog/the100pics-17/?utm_source=rss">100 Pics - Day 17</a></li><li><a href="https://claytonerrington.com/blog/tv-show-recommendations/?utm_source=rss">TV Show Recommendations</a></li><li><a href="https://claytonerrington.com/blog/when-ai-is-helpful/?utm_source=rss">When AI Is Helpful</a></li>
+    <li><a href="https://claytonerrington.com/blog/local-archiving/?utm_source=rss">Local Archiving - Backing up the Cloud</a></li><li><a href="https://claytonerrington.com/blog/static-quest/?utm_source=rss">Static.Quest review</a></li><li><a href="https://claytonerrington.com/blog/updated-bookmarks/?utm_source=rss">Updated Bookmarks</a></li><li><a href="https://claytonerrington.com/blog/the100pics-17/?utm_source=rss">100 Pics - Day 17</a></li><li><a href="https://claytonerrington.com/blog/tv-show-recommendations/?utm_source=rss">TV Show Recommendations</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
