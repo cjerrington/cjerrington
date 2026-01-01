@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/updating-umami/?utm_source=rss">Updating Umami Analytics, part 2</a></li><li><a href="https://claytonerrington.com/blog/local-archiving/?utm_source=rss">Local Archiving - Backing up the Cloud</a></li><li><a href="https://claytonerrington.com/blog/static-quest/?utm_source=rss">Static.Quest review</a></li><li><a href="https://claytonerrington.com/blog/updated-bookmarks/?utm_source=rss">Updated Bookmarks</a></li><li><a href="https://claytonerrington.com/blog/the100pics-17/?utm_source=rss">100 Pics - Day 17</a></li>
+    <li><a href="https://claytonerrington.com/blog/2025-in-review/?utm_source=rss">2025 in Review</a></li><li><a href="https://claytonerrington.com/blog/the-lego-game-boy/?utm_source=rss">The LEGO GameBoy</a></li><li><a href="https://claytonerrington.com/blog/updating-umami/?utm_source=rss">Updating Umami Analytics, part 2</a></li><li><a href="https://claytonerrington.com/blog/local-archiving/?utm_source=rss">Local Archiving - Backing up the Cloud</a></li><li><a href="https://claytonerrington.com/blog/static-quest/?utm_source=rss">Static.Quest review</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
