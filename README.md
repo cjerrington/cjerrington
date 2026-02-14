@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/2026-w06/?utm_source=rss">Week Notes - W06</a></li><li><a href="https://claytonerrington.com/blog/better-error-catching/?utm_source=rss">Better Error Catching</a></li><li><a href="https://claytonerrington.com/blog/2026-w05/?utm_source=rss">Snowed in - W05</a></li><li><a href="https://claytonerrington.com/blog/2026-w04/?utm_source=rss">A week of projects - W04</a></li><li><a href="https://claytonerrington.com/blog/2026-w03/?utm_source=rss">Going down a rabbit hole - W03</a></li>
+    <li><a href="https://claytonerrington.com/blog/2026-w07/?utm_source=rss">Week Notes - W07</a></li><li><a href="https://claytonerrington.com/blog/2026-w06/?utm_source=rss">Week Notes - W06</a></li><li><a href="https://claytonerrington.com/blog/better-error-catching/?utm_source=rss">Better Error Catching</a></li><li><a href="https://claytonerrington.com/blog/2026-w05/?utm_source=rss">Snowed in - W05</a></li><li><a href="https://claytonerrington.com/blog/2026-w04/?utm_source=rss">A week of projects - W04</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
