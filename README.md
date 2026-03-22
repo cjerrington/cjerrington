@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/2026-w10/?utm_source=rss">Week Notes - W10</a></li><li><a href="https://claytonerrington.com/blog/2026-w09/?utm_source=rss">Week Notes - W09</a></li><li><a href="https://claytonerrington.com/blog/css-is-a-programing-language/?utm_source=rss">CSS is a programming language</a></li><li><a href="https://claytonerrington.com/blog/2026-w08/?utm_source=rss">Week Notes - W08</a></li><li><a href="https://claytonerrington.com/blog/2026-w07/?utm_source=rss">Week Notes - W07</a></li>
+    <li><a href="https://claytonerrington.com/blog/2026-w12/?utm_source=rss">Week Notes - w12</a></li><li><a href="https://claytonerrington.com/blog/review-magegee-mk-star-mechanical-keyboard/?utm_source=rss">Review MageGee MK-Star Mechanical Keyboard</a></li><li><a href="https://claytonerrington.com/blog/2026-w11/?utm_source=rss">Week Notes - w11</a></li><li><a href="https://claytonerrington.com/blog/2026-w10/?utm_source=rss">Week Notes - W10</a></li><li><a href="https://claytonerrington.com/blog/2026-w09/?utm_source=rss">Week Notes - W09</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
