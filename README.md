@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/2026-w16/?utm_source=rss">Week Notes - w16</a></li><li><a href="https://claytonerrington.com/blog/opensuse-review/?utm_source=rss">openSUSE Review</a></li><li><a href="https://claytonerrington.com/blog/2026-w15/?utm_source=rss">Week Notes - w15</a></li><li><a href="https://claytonerrington.com/blog/2026-w13/?utm_source=rss">Week Notes - w13</a></li><li><a href="https://claytonerrington.com/blog/2026-w12/?utm_source=rss">Week Notes - w12</a></li>
+    <li><a href="https://claytonerrington.com/blog/2026-w18/?utm_source=rss">Week Notes - w18</a></li><li><a href="https://claytonerrington.com/blog/2026-w16/?utm_source=rss">Week Notes - w16</a></li><li><a href="https://claytonerrington.com/blog/opensuse-review/?utm_source=rss">openSUSE Review</a></li><li><a href="https://claytonerrington.com/blog/2026-w15/?utm_source=rss">Week Notes - w15</a></li><li><a href="https://claytonerrington.com/blog/2026-w13/?utm_source=rss">Week Notes - w13</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
