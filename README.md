@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/2026-w20/?utm_source=rss">Week Notes - w20</a></li><li><a href="https://claytonerrington.com/blog/making-a-personal-reading-list/?utm_source=rss">Making a Personal Reading List</a></li><li><a href="https://claytonerrington.com/blog/2026-w18/?utm_source=rss">Week Notes - w18</a></li><li><a href="https://claytonerrington.com/blog/2026-w16/?utm_source=rss">Week Notes - w16</a></li><li><a href="https://claytonerrington.com/blog/opensuse-review/?utm_source=rss">openSUSE Review</a></li>
+    <li><a href="https://claytonerrington.com/blog/2026-w21/?utm_source=rss">Week Notes - w21</a></li><li><a href="https://claytonerrington.com/blog/too-many-to-do-apps/?utm_source=rss">Too Many To-Do Apps</a></li><li><a href="https://claytonerrington.com/blog/2026-w20/?utm_source=rss">Week Notes - w20</a></li><li><a href="https://claytonerrington.com/blog/making-a-personal-reading-list/?utm_source=rss">Making a Personal Reading List</a></li><li><a href="https://claytonerrington.com/blog/2026-w18/?utm_source=rss">Week Notes - w18</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
