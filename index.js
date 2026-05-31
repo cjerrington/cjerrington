@@ -60,7 +60,7 @@ md.use(emoji);
   const footer = `<p align="center"><small>Updated once a day via <a href="https://github.com/cjerrington/cjerrington/blob/main/.github/workflows/build.yml">Github Actions</a>.</small></p>`
 
   const text = `${headerText}\n\n
-  ${websiteBadge} ${linkedInBadge} ${mastodonBadge} ${instagramBadge}\n\n
+  ${websiteBadge} ${linkedInBadge} ${mastodonBadge}\n\n
   [:arrow_right: Check out my website](${mywebsite})\n\n
   ${buyMeACoffeeButton}\n\n
   ## My Latest Blog Posts\n
