@@ -1,13 +1,13 @@
 <h1>Hi 👋, I'm Clayton</h1>
 <h3>A passionate developer of open source projects from Texas</h3>
-<p><a href="https://claytonerrington.com"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=flat-square&up_color=blue&up_message=claytonerrington.com&url=https%3A%2F%2Fclaytonerrington.com" height=25></a> <a href="https://www.linkedin.com/in/claytonerrington/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://mstdn.social/@cjerrington"><img src="https://img.shields.io/mastodon/follow/108200000569711642?domain=https%3A%2F%2Fmstdn.social&style=for-the-badge" height=25></a> <a href="https://www.instagram.com/cjerrington/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
+<p><a href="https://claytonerrington.com"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=flat-square&up_color=blue&up_message=claytonerrington.com&url=https%3A%2F%2Fclaytonerrington.com" height=25></a> <a href="https://www.linkedin.com/in/claytonerrington/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://mstdn.social/@cjerrington"><img src="https://img.shields.io/mastodon/follow/108200000569711642?domain=https%3A%2F%2Fmstdn.social&style=for-the-badge" height=25></a></p>
 <p><a href="https://claytonerrington.com">➡️ Check out my website</a></p>
   <a href="https://www.buymeacoffee.com/cjerrington" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/2026-w21/?utm_source=rss">Week Notes - w21</a></li><li><a href="https://claytonerrington.com/blog/too-many-to-do-apps/?utm_source=rss">Too Many To-Do Apps</a></li><li><a href="https://claytonerrington.com/blog/2026-w20/?utm_source=rss">Week Notes - w20</a></li><li><a href="https://claytonerrington.com/blog/making-a-personal-reading-list/?utm_source=rss">Making a Personal Reading List</a></li><li><a href="https://claytonerrington.com/blog/2026-w18/?utm_source=rss">Week Notes - w18</a></li>
+    <li><a href="https://claytonerrington.com/blog/2026-w22/?utm_source=rss">Week Notes - w22</a></li><li><a href="https://claytonerrington.com/blog/2026-w21/?utm_source=rss">Week Notes - w21</a></li><li><a href="https://claytonerrington.com/blog/too-many-to-do-apps/?utm_source=rss">Too Many To-Do Apps</a></li><li><a href="https://claytonerrington.com/blog/2026-w20/?utm_source=rss">Week Notes - w20</a></li><li><a href="https://claytonerrington.com/blog/making-a-personal-reading-list/?utm_source=rss">Making a Personal Reading List</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
