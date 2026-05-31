@@ -13,7 +13,6 @@ const feedUrl = "https://claytonerrington.com/feed.xml";
 const mywebsite = "https://claytonerrington.com";
 const linkedInUrl = "https://www.linkedin.com/in/claytonerrington/";
 const mastodonUrl = "https://mstdn.social/@cjerrington"
-const instagramUrl = "https://www.instagram.com/cjerrington/";
 const blogPostLimit = 5;
 const badgeHeight = "25";
 
@@ -52,7 +51,6 @@ md.use(emoji);
   const websiteBadge = `[<img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=flat-square&up_color=blue&up_message=claytonerrington.com&url=https%3A%2F%2Fclaytonerrington.com" height=${badgeHeight}>](${mywebsite})`;
   const mastodonBadge = `[<img src="https://img.shields.io/mastodon/follow/108200000569711642?domain=https%3A%2F%2Fmstdn.social&style=for-the-badge" height=${badgeHeight}>](${mastodonUrl})`;
   const linkedInBadge = `[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=${badgeHeight}>](${linkedInUrl})`;
-  const instagramBadge = `[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=${badgeHeight}>](${instagramUrl})`;
   
   const buyMeACoffeeButton = `<a href="https://www.buymeacoffee.com/cjerrington" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
