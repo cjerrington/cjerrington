@@ -20,6 +20,10 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://github.com/cjerrington/DisplayDrop">DisplayDrop</a></td>
+<td>A lightweight, self-contained digital signage application for image slideshows. Built with Express, SQLite, and vanilla JS</td>
+</tr>
+<tr>
 <td><a href="https://static.quest/">Static.Quest</a></td>
 <td>A web ring focused to list all the amazing static websites</td>
 </tr>
