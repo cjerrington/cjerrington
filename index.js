@@ -20,6 +20,7 @@ const badgeHeight = "25";
 const projects = `
 Project | Description
 --------|------------
+[DisplayDrop](https://github.com/cjerrington/DisplayDrop) | A lightweight, self-contained digital signage application for image slideshows. Built with Express, SQLite, and vanilla JS
 [Static.Quest](https://static.quest/) | A web ring focused to list all the amazing static websites
 [Bookmarks](https://codeberg.org/cjerrington/Bookmarks) | A simple bookmark system for PowerShell and Bash to set shortcuts to quickly change directories while using the prompt
 [SQLBuilder](https://github.com/cjerrington/SQLBuilder/blob/main/README.md) | Simple SQL Attach Script Generator
