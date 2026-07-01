@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/using-chat-gpt-wisely-part-2/?utm_source=rss">Using ChatGPT Wisely - Part 2</a></li><li><a href="https://claytonerrington.com/blog/2026-w25/?utm_source=rss">Week Notes - w25</a></li><li><a href="https://claytonerrington.com/blog/2026-w23/?utm_source=rss">Week Notes - w23</a></li><li><a href="https://claytonerrington.com/blog/2026-w22/?utm_source=rss">Week Notes - w22</a></li><li><a href="https://claytonerrington.com/blog/2026-w21/?utm_source=rss">Week Notes - w21</a></li>
+    <li><a href="https://claytonerrington.com/blog/2026-w26/?utm_source=rss">Week Notes - w26</a></li><li><a href="https://claytonerrington.com/blog/using-chat-gpt-wisely-part-2/?utm_source=rss">Using ChatGPT Wisely - Part 2</a></li><li><a href="https://claytonerrington.com/blog/2026-w25/?utm_source=rss">Week Notes - w25</a></li><li><a href="https://claytonerrington.com/blog/2026-w23/?utm_source=rss">Week Notes - w23</a></li><li><a href="https://claytonerrington.com/blog/2026-w22/?utm_source=rss">Week Notes - w22</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
