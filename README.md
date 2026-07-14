@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/deploying-to-ssh/?utm_source=rss">Deploying to SSH</a></li><li><a href="https://claytonerrington.com/blog/replacing-count-with-measure-object/?utm_source=rss">PowerShell Counting Objects</a></li><li><a href="https://claytonerrington.com/blog/2026-w26/?utm_source=rss">Week Notes - w26</a></li><li><a href="https://claytonerrington.com/blog/using-chat-gpt-wisely-part-2/?utm_source=rss">Using ChatGPT Wisely - Part 2</a></li><li><a href="https://claytonerrington.com/blog/2026-w25/?utm_source=rss">Week Notes - w25</a></li>
+    <li><a href="https://claytonerrington.com/blog/2026-w28/?utm_source=rss">Week Notes - w28</a></li><li><a href="https://claytonerrington.com/blog/deploying-to-ssh/?utm_source=rss">Deploying to SSH</a></li><li><a href="https://claytonerrington.com/blog/replacing-count-with-measure-object/?utm_source=rss">PowerShell Counting Objects</a></li><li><a href="https://claytonerrington.com/blog/2026-w26/?utm_source=rss">Week Notes - w26</a></li><li><a href="https://claytonerrington.com/blog/using-chat-gpt-wisely-part-2/?utm_source=rss">Using ChatGPT Wisely - Part 2</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
