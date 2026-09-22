@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/improving-the-webring-links/?utm_source=rss">Improving the webring links, one build at a time</a></li><li><a href="https://claytonerrington.com/blog/2026-w34/?utm_source=rss">Week Notes - w34</a></li><li><a href="https://claytonerrington.com/blog/hosting-a-service-with-tailscale/?utm_source=rss">Hosting a service with TailScale</a></li><li><a href="https://claytonerrington.com/blog/super-smash-buttons/?utm_source=rss">Super Smash Buttons</a></li><li><a href="https://claytonerrington.com/blog/2026-w31/?utm_source=rss">Week Notes - w31</a></li>
+    <li><a href="https://claytonerrington.com/blog/2026-w38/?utm_source=rss">Week Notes - w38</a></li><li><a href="https://claytonerrington.com/blog/2026-w36/?utm_source=rss">Week Notes - w36</a></li><li><a href="https://claytonerrington.com/blog/improving-the-webring-links/?utm_source=rss">Improving the webring links, one build at a time</a></li><li><a href="https://claytonerrington.com/blog/2026-w34/?utm_source=rss">Week Notes - w34</a></li><li><a href="https://claytonerrington.com/blog/hosting-a-service-with-tailscale/?utm_source=rss">Hosting a service with TailScale</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
