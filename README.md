@@ -7,7 +7,7 @@
     </a>
 <h2>My Latest Blog Posts</h2>
   <ul>
-    <li><a href="https://claytonerrington.com/blog/2026-w39/?utm_source=rss">Week Notes - w39</a></li><li><a href="https://claytonerrington.com/blog/world-clock/?utm_source=rss">The makings of a World Clock</a></li><li><a href="https://claytonerrington.com/blog/2026-w38/?utm_source=rss">Week Notes - w38</a></li><li><a href="https://claytonerrington.com/blog/2026-w36/?utm_source=rss">Week Notes - w36</a></li><li><a href="https://claytonerrington.com/blog/improving-the-webring-links/?utm_source=rss">Improving the webring links, one build at a time</a></li>
+    <li><a href="https://claytonerrington.com/blog/testing-json-in-powershell/?utm_source=rss">Testing JSON in PowerShell</a></li><li><a href="https://claytonerrington.com/blog/2026-w40/?utm_source=rss">Week Notes - w40</a></li><li><a href="https://claytonerrington.com/blog/2026-w39/?utm_source=rss">Week Notes - w39</a></li><li><a href="https://claytonerrington.com/blog/world-clock/?utm_source=rss">The makings of a World Clock</a></li><li><a href="https://claytonerrington.com/blog/2026-w38/?utm_source=rss">Week Notes - w38</a></li>
   </ul>
 <p><a href="https://claytonerrington.com">➡️ More blog posts</a></p>
 <h2>Noteworthy Projects</h2>
